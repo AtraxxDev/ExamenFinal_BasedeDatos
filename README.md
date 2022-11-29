@@ -18,6 +18,7 @@
 
 [Queries.sql](./queries.sql)
 
+<h2> Diagramas Relecionales </h2>
 
 ![Diagramas1](https://cdn.discordapp.com/attachments/1011693764642877553/1047170587199541308/IMG-20221128-WA0042.jpg)
 

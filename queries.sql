@@ -1,3 +1,5 @@
+USE LeagueofLegends;
+
 /*  Jugadores
     Crear un Jugador
     Leer todos los jugadores
