@@ -17,3 +17,8 @@
 [Initial_data.sql](./initial_data.sql)
 
 [Queries.sql](./queries.sql)
+
+
+![Diagramas1](https://cdn.discordapp.com/attachments/1011693764642877553/1047170587199541308/IMG-20221128-WA0042.jpg)
+
+![Diagramas2](https://cdn.discordapp.com/attachments/1011693764642877553/1047021300381667338/image.png)
